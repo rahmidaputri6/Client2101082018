@@ -9,9 +9,13 @@ package com.rahmida.client2101082018.model;
  * @author asus
  */
 public class Anggota {
-   private Long anggotaId;
+  private Long anggotaId;
     private String nama;
     private String alamat;
+    
+    public Anggota (){
+        
+    }
 
     public Long getAnggotaId() {
         return anggotaId;

@@ -8,6 +8,14 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-        <exec.mainClass>com.rahmida.client2101082018.Client2101082018</exec.mainClass>
+        <exec.mainClass>com.rahmida.client2101082039.Client2101082039</exec.mainClass>
     </properties>
+    <name>client2101082018</name>
+    <dependencies>
+        <dependency>
+            <groupId>com.konghq</groupId>
+            <artifactId>unirest-java</artifactId>
+            <version>3.14.1</version>
+        </dependency>
+    </dependencies>
 </project>
